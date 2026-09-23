@@ -1,0 +1,70 @@
+.center{
+    text-align: start;
+
+}
+
+.countinous{
+
+  height: 585px;
+  width: 280px;
+  padding: 30px;
+  margin: auto;
+ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);;
+}
+
+input {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.input-error {
+  border: 2px solid red;
+}
+.menu input{
+  border-radius: 5px;
+   width: 200px;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1.3px solid black;
+}
+.title input{
+
+    padding: 8px;
+  width: 206px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1.3px solid black
+
+}
+
+
+select{
+  padding: 8px;
+  width: 220px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1.3px solid black;
+}
+
+.layla {
+  
+  margin: 15px;
+  margin-top: 20px;
+}
+.error {
+  color: red;
+  font-size: 14px;
+  margin: 5px 0;
+}
+button{
+  
+  width: 200px;
+  padding: 8px;
+  margin-top: 10px;
+  background-color: brown;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
